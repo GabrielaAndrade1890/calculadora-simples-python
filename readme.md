@@ -18,4 +18,4 @@
     > 2. Em seguida digite o segundo número:
         (ex: Digite o segundo número: 8)
 
-    > 3. Depois digite qual operação básica você prefere e resultado aparecerá logo em seguida
+    > 3. Depois digite qual operação básica você prefere e o resultado aparecerá logo em seguida
